@@ -2,8 +2,7 @@
 Minecraft Player Finder working through packet sniffing (texture detect)
 
 # 📱 Screenshots
-![Screenshot from 2023-03-22 13-53-36](https://user-images.githubusercontent.com/100863585/226882128-ffa7d031-e976-4930-8fcf-32522b626830.png)
-Tutorial: [Click](https://www.youtube.com/watch?v=CZaSYmrYRdo) (in Russian)
+![изображение](https://github.com/user-attachments/assets/137374fa-9d30-45e5-ad0b-ce93313e84e1)
 
 # ⚡ Features
 - [x] Works on all versions (*-1.20)
