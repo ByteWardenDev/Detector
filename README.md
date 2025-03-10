@@ -1,5 +1,5 @@
 # 🔌 Null
-Minecraft Player Finder working through packet sniffing (texture detect)
+A network packet sniffing tool designed to detect Minecraft players and server connections through packet analysis.
 
 # 📱 Screenshots
 ![image](https://github.com/user-attachments/assets/62b2cd7e-7333-4004-9078-2b946a1d381e)
@@ -8,7 +8,6 @@ Minecraft Player Finder working through packet sniffing (texture detect)
 # ⚡ Features
 - [x] Works on all versions (*-1.20)
 - [x] Works on all launchers (Lunar, Salwayyr, TL, *)
-- [x] Telegram API Support
 
 # ❓ How to install?
 ```
