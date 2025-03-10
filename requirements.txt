@@ -1,3 +1,2 @@
-pyTelegramBotAPI
 scapy
-colorama
+pystyle 
