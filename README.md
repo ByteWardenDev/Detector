@@ -1,4 +1,4 @@
-# 🔌 Null
+# 🔌 Detector
 A network packet sniffing tool designed to detect Minecraft players and server connections through packet analysis.
 
 # 📱 Screenshots
