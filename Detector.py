@@ -13,7 +13,6 @@ GRAY = '\033[1;90m'
 GOLD = '\033[0;33m'
 BLUE = '\033[1;34m'
 CYAN = '\033[1;36m'
-YELLOW = '\033[1;33m'
 
 def packet(packet):
     try:
