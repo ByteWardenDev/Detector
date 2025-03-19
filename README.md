@@ -12,7 +12,6 @@ A network packet sniffing tool designed to detect Minecraft players and server c
 # ❓ How to install?
 ```
 1. Install python from https://www.python.org/
-2. pip3 install -r requirements.txt
-
-Run on win -> python3 Detector.py
+2. Install all dependencies
+3. Run on win -> python3 Detector.py
 ```
