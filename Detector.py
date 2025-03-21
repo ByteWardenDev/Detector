@@ -50,9 +50,9 @@ def main():
        ██████╔╝███████╗   ██║   ███████╗╚██████╗   ██║   ╚██████╔╝██║  ██║
        ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 
-                              {BLUE}╭────────────────────╮
-                              │ {WHITE}Fork By: {RED}Crusader{BLUE}  │
-                              ╰────────────────────╯{WHITE}    
+                       {BLUE}╭────────────────────────╮
+                       │ {WHITE}   Fork By: {RED}Sentinel  {BLUE} │
+                       ╰────────────────────────╯{WHITE}   
     """
     print(Colorate.Vertical(Colors.white_to_blue, Center.XCenter(art)))
     print()
